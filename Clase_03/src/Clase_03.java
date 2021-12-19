@@ -162,22 +162,22 @@ public class Clase_03 {
 
 		
 		//10
-		Scanner teclado = new Scanner(System.in);
-		System.out.println("Ingrese un número");
-		int numero = teclado.nextInt();
-		int suma=0;
-		int contador=1;
-		if(numero>=0)
-		{
-				while(contador<=100) {
-					suma+=numero+contador;
-					System.out.println(numero+contador);
-					contador++;
-				}
-				System.out.println(suma);
-		}
+//		Scanner teclado = new Scanner(System.in);
+//		System.out.println("Ingrese un número");
+//		int numero = teclado.nextInt();
+//		int suma=0;
+//		int contador=1;
+//		if(numero>=0)
+//		{
+//				while(contador<=100) {
+//					suma+=numero+contador;
+//					System.out.println(numero+contador);
+//					contador++;
+//				}
+//				System.out.println(suma);
+//		}
 		
-		
+//		
 	}
 
 }
