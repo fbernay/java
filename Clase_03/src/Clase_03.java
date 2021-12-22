@@ -176,8 +176,12 @@ public class Clase_03 {
 //				}
 //				System.out.println(suma);
 //		}
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 54e9f0aa216daa7baf02d0fdfa075b54cc4bfe16
 		
+//		
 	}
 
 }
