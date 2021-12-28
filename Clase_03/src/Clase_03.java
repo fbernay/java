@@ -176,8 +176,10 @@ public class Clase_03 {
 //				}
 //				System.out.println(suma);
 
-		
-//		
+		int [] x = {120,200,0,016};
+		for (int i = 0; i < x.length; i++) {
+			System.out.print(x[i]+" ");
+		}
 	}
 
 }
